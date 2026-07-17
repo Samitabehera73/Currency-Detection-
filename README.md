@@ -1,2 +1,2 @@
-This is my 5th Repository 
+This Repository is 
 On the project of Currency Detection 
